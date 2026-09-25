@@ -15,7 +15,7 @@
 - 🔭 Currently exploring new technologies and crafting open-source projects.
 - 🌱 Continuously learning modern development frameworks & best architectural practices.
 - 🤝 Open to collaborating on exciting open-source initiatives and innovative projects.
-- ⚡ **Fun fact**: *I turn coffee and curiosity into working code!*
+- ⚡ **Fun fact**: *I turn coffee machine on in the morning*
 
 ---
 
