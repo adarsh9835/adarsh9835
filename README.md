@@ -11,11 +11,11 @@
 
 ### 💫 About Me
 
-- 💻 Passionate about development(gets hard while developing).
-- 🔭 Currently exploring new technologies(on PHub).
-- 🌱 Continuously learning modern development.
-- 🤝 Open to collaborating on exciting open-source(will work day and night{IYKYK})
-- ⚡ **Fun fact**: *I turn coffee machine onn in the morning *
+💻 Passionate developer building impactful web & software solutions.
+🔭 Currently exploring new technologies and crafting open-source projects.
+🌱 Continuously learning modern development frameworks & best architectural practices.
+🤝 Open to collaborating on exciting open-source initiatives and innovative projects.
+⚡ Fun fact: I turn coffee machine on in the morning
 
 ---
 
