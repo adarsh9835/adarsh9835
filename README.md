@@ -11,11 +11,11 @@
 
 ### 💫 About Me
 
-💻 Passionate developer building impactful web & software solutions.
-🔭 Currently exploring new technologies and crafting open-source projects.
-🌱 Continuously learning modern development frameworks & best architectural practices.
-🤝 Open to collaborating on exciting open-source initiatives and innovative projects.
-⚡ Fun fact: I turn coffee machine on in the morning
+- 💻 Passionate developer building impactful web & software solutions.
+- 🔭 Currently exploring new technologies and crafting open-source projects.
+- 🌱 Continuously learning modern development frameworks & best architectural practices.
+- 🤝 Open to collaborating on exciting open-source initiatives and innovative projects.
+- ⚡ Fun fact: I turn coffee machine on in the morning
 
 ---
 
